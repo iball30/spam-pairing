@@ -28,9 +28,9 @@ You need to Install Nodejs and Git on your Device
 git clone https://github.com/iball30/spam-pairing
 ```
 
-## Run spam-pairng-wa
+## Run spam-pairing
 ```bash
-cd spam-pairing-wa
+cd spam-pairing
 npm install
 npm start
 ```
