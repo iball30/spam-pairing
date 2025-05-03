@@ -37,7 +37,7 @@ npm start
 
 ## Support Me
 <ul>
-  <li><strong>Tiktok</strong>: <a href="https://instagram.com/mhmdiqball14_">@flow.falcon</a></li>
+  <li><strong>Instagram</strong>: <a href="https://instagram.com/mhmdiqball14_">@mhmdiqball14_</a></li>
   <li><strong>Website</strong>: <a href="https://iballofc.vercel.app">https://iballofc.vercel.app</a></li>
   <li><strong>Github</strong>: <a href="https://github.com/iball30">https://github.com/iball30</a></li>
 </ul>
